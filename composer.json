@@ -1,0 +1,18 @@
+{
+  "name": "ctfang/annotation",
+  "type": "library",
+  "description": "php annotation",
+  "keywords": [],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "明月有色",
+      "email": "2206582181@qq.com"
+    }
+  ],
+  "autoload":{
+    "psr-4": {
+      "Tool\\Annotation\\":"src/"
+    }
+  }
+}
